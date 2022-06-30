@@ -1,0 +1,46 @@
+.main-12{
+    background-image: url(img/download\ \(1\).jfif);
+    background-color: rgb(111, 223, 111);
+    background-size: cover;
+}
+
+.main-1{
+    background-size: cover;
+    background-color: rgb(111, 223, 111);
+    background-image: url(img/download\ \(1\).jfif);
+    
+}
+.main-2{
+    background-size: cover;
+    background-color: rgb(111, 223, 111);
+    background-image: url(img/download\ \(2\).jfif);
+
+}
+.main-3{
+    background-size: cover;
+    background-color: rgb(111, 223, 111);
+    background-image: url(img/download\ \(3\).jfif);
+
+}
+.main-4{
+    background-size: cover;
+    background-color: rgb(111, 223, 111);
+    background-image: url(img/download.jfif);
+
+}
+.slider-1{
+    background-image: url(img/images.jfif);
+    background-size: cover;
+}
+.slider-2{
+    background-image: url(img/images\ \(1\).jfif);
+     background-size: cover;
+}
+.slider-3{
+    background-image: url(img/images\ \(2\).jfif);
+     background-size: cover;
+}
+.slider-4{
+    background-image: url(img/images\ \(3\).jfif);
+     background-size: cover;
+}
